@@ -1,6 +1,8 @@
 # Electric Vehicle Data Analysis 📊  
 This project analyzes electric vehicle sales and trends using Tableau and Excel for data cleaning.  
 
+![Screenshot 2024-12-18 142150](https://github.com/user-attachments/assets/0ba1691c-2a21-4759-84a1-908bdddd43d5)
+
 ## 📌 Project Overview  
 This project aims to provide insights into the adoption of electric vehicles (EVs) in terms of growth trends, key manufacturers, and CAFV (Clean Alternative Fuel Vehicle) eligibility. It combines **data cleaning** in Excel and **data visualization** in Tableau to transform raw data into meaningful business insights.
 
